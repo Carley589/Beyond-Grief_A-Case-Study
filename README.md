@@ -7,7 +7,7 @@ Children are unquestionably precious, deserving of unwavering commitment to thei
 - [Read the Paper](https://github.com/Carley589/Beyond-Grief_A-Case-Study/blob/main/Beyond%20Grief_%20A%20Case%20Study%20Examining%20Perspectives%20of%20Vaccine%20Hesitancy%20in%20Bereaved%20Parents%20and%20Grandparents.pdf)
 
 ## Poster Presentation
-![SRM 686-Poster Presentation](path-to-poster-image.png) <!-- Replace with the actual path to the uploaded image -->
+![Poster Presentation](https://github.com/Carley589/Beyond-Grief_A-Case-Study/blob/main/Poster%20Presentation.png)
 
 ## Visuals
 ![Case Study Analysis](https://github.com/Carley589/Beyond-Grief_A-Case-Study/blob/main/Case%20Study%20Analysis.png)
